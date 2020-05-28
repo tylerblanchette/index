@@ -481,7 +481,8 @@ section {
 }
 
 .articlecontainer img{
-	margin-top: 50px;
+
+	margin-bottom: 2%;
 	box-shadow: 0 0 20px #000000b3;
 
 
@@ -492,12 +493,9 @@ section {
 }
 
 @keyframes fade-in-pic {
-	0% {border-radius: 100px; 	height: 0px;
-	width: 420px; border-radius: 150px;}
+	0% {border-radius: 100px; 	height: 0px; width: 420px;
+	border-radius: 150px;}
 	100% {border-radius: 20px;	height: 280px;
 	width: 420px; border-radius: 20px;}
 }
 
-.articleimg {
-	padding-bottom: 2%;
-}
