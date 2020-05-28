@@ -482,7 +482,6 @@ section {
 
 .articlecontainer img{
 	margin-top: 50px;
-	margin-bottom: 2%;
 	box-shadow: 0 0 20px #000000b3;
 
 
@@ -497,4 +496,8 @@ section {
 	width: 0px; border-radius: 150px;}
 	100% {border-radius: 20px;	height: 280px;
 	width: 420px; border-radius: 20px;}
+}
+
+.articleimg {
+	padding-bottom: 2%;
 }
